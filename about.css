@@ -1,0 +1,151 @@
+.nav {
+  margin-bottom: 0%;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+}
+
+h2 {
+  padding: 5px;
+  text-align: center;
+}
+
+.coverContainer {
+  position: relative;
+}
+
+.coverContainer img {
+  width: 100%;
+  height: auto;
+  min-height: 400px;
+}
+
+.coverText {
+  position: absolute;
+  bottom: 12%;
+  left: 5%;
+  font-size: 70px;
+  color: pink;
+  word-wrap: break-word;
+}
+
+.WWA {
+  margin-top: 50px;
+  background-color: #ffd3d3;
+}
+
+.WWA > div {
+  padding: 3%;
+  padding-left: 15%;
+  padding-right: 15%;
+  word-wrap: break-word;
+}
+
+
+.WWO {
+  align-items: center;
+  justify-content: center;
+  padding: 3%;
+  padding-right: 15%;
+  padding-left: 15%;
+}
+
+.WWOimage1 {
+  background-color: #ffd3d3;
+  float: left;
+  margin-top: 50px;
+  margin-right: 80px;
+  border-radius: 10px;
+  border: 10px solid;
+  border-color: #ffd3d3;
+}
+
+.WWOtext1 {
+  font-size: 1.6rem;
+  font-weight: bold;
+  padding-top: 130px;
+  padding-bottom: 50px;
+  text-align: center;
+  display: block;
+  line-height: 3rem;
+}
+
+.WWO2 {
+  align-items: center;
+  justify-content: center;
+  padding: 3%;
+  padding-right: 15%;
+  padding-left: 15%;
+}
+
+.WWOimage2 {
+  background-color: #ffd3d3;
+  float: right;
+  margin-top: 50px;
+  margin-left: 80px;
+  border-radius: 10px;
+  border: 10px solid;
+  border-color: #ffd3d3;
+}
+
+.WWOtext2 {
+  font-size: 1.6rem;
+  font-weight: bold;
+  padding-top: 130px;
+  padding-bottom: 50px;
+  text-align: center;
+  display: block;
+  line-height: 3rem;
+}
+
+.WWD {
+  margin-top: 50px;
+  background-color: #ffd3d3;
+}
+
+.WWD > div {
+  padding: 3%;
+  padding-left: 15%;
+  padding-right: 15%;
+  word-wrap: break-word;
+}
+
+.socials {
+  justify-content: center;
+  display: flex;
+}
+
+.fa {
+  padding: 10px;
+  text-decoration: none;
+  border-radius: 50%;
+  transform: scale(1.5);
+  margin: 3px 20px 20px;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #ffbcbc;
+  color: white;
+}
+
+.fa-twitter {
+  background: #ffbcbc;
+  color: white;
+}
+
+.fa-youtube {
+  background: #ffbcbc;
+  color: white;
+}
+
+.fa-pinterest {
+  background: #ffbcbc;
+  color: white;
+}
+
